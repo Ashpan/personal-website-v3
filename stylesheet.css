@@ -1,0 +1,51 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+/*body{
+		background-image: url("Bg1.jpg");
+		background-size: 100vw;
+		background-repeat: no-repeat;
+	}*/
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+#introtext{
+	position: absolute;
+	color: white;
+	top: 20vh;
+	left: 5.5vw;
+}
+
+
+
+#hello{
+	font-size: 2vw;
+}
+
+#name{
+	font-size: 5vw;
+}
+
+#description{
+	font-size: 2vw;
+}
+
+#redcontainer{
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+	background-color: #6BD4D0;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	display: table;
+}
+
+#aboutcontent{
+		display: table-row;
+}
