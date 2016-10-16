@@ -1,5 +1,6 @@
 html{
-	font-family: 'Slabo 27px', serif; font-weight: 400;
+	font-family: 'Open Sans', sans-serif;
+/* 	font-family: 'Slabo 27px', serif; font-weight: 400; */
 	overflow-x: hidden;
 	-webkit-animation: fadein 0.75s; /* Safari, Chrome and Opera > 12.1 */
     -moz-animation: fadein 0.75s; /* Firefox < 16 */
